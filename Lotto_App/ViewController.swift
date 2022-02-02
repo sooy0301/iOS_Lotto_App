@@ -14,6 +14,7 @@ class ViewController: UIViewController {
         // Do any additional setup after loading the view
         // 이제 앱 만들어야 하는데
         // 1. 기능 정의
+        //  1.1. 로또 사진 찍어 저장
         // 2. 스토리보드 + 유스케이스
         // 3. 시퀀스 다이어그램
         // 4. ERD // DB설계
