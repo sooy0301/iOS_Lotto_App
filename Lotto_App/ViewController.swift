@@ -22,7 +22,7 @@ class ViewController: UIViewController {
         // 3. 시퀀스 다이어그램
         // 4. ERD // DB설계
         // 5. 작업 시작
-        // 응 애플 개발자 아카데미 안가~
+        
     }
 
 
